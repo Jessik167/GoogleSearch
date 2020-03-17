@@ -1,0 +1,6 @@
+[0313/141644.556:ERROR:process_reader_win.cc(108)] process 228456 not found
+[0313/141644.556:ERROR:exception_snapshot_win.cc(98)] thread ID 225308 not found in process
+[0313/141644.557:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0313/151441.243:ERROR:process_reader_win.cc(108)] process 251820 not found
+[0313/151441.243:ERROR:exception_snapshot_win.cc(98)] thread ID 248888 not found in process
+[0313/151441.244:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)

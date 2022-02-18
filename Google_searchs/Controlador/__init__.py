@@ -8,9 +8,9 @@ from bson.json_util import loads, dumps
 from pymongo.errors import ConnectionFailure
 
 # DATOS PARA MYSQL
-DB_HOST_mysql = '3.231.20.132'
+DB_HOST_mysql = ''
 DB_USER = 'apdif'
-DB_PASSWORD = 'K3XyRwLjPtkui6qJ'
+DB_PASSWORD = ''
 DB_NAME = 'apdif'
 
 # DATOS PARA MONGO
